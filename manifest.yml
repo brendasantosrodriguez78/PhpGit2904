@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PhpGit2904
+  host: PhpGit2904
+  disk_quota: 1024M
